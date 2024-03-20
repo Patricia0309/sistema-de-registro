@@ -7,3 +7,5 @@
 Para ejecutar el sistema debes poner 
 
 ``npm´´
+
+  Sistema de registro 2
